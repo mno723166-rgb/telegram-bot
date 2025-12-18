@@ -1,0 +1,15 @@
+[Unit]
+Description=CV Analysis Telegram Bot
+After=network.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/home/ubuntu/telegram_ai_bot
+ExecStart=/usr/bin/python3 /home/ubuntu/telegram_ai_bot/bot.py
+Restart=always
+RestartSec=5
+Environment=PYTHONUNBUFFERED=1
+
+[Install]
+WantedBy=multi-user.target

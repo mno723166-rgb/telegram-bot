@@ -1,0 +1,20 @@
+nohup: ignoring input
+2025-12-18 03:23:38,518 - INFO - 🚀 Ultimate Bot Started!
+2025-12-18 03:23:39,026 - INFO - HTTP Request: POST https://api.telegram.org/bot8533837337:AAEUuNwVb5AFHib3km1DHX_DMZyF7jNU5Qw/getMe "HTTP/1.1 200 OK"
+2025-12-18 03:23:39,186 - INFO - HTTP Request: POST https://api.telegram.org/bot8533837337:AAEUuNwVb5AFHib3km1DHX_DMZyF7jNU5Qw/deleteWebhook "HTTP/1.1 200 OK"
+2025-12-18 03:23:39,187 - INFO - Application started
+2025-12-18 03:23:49,748 - INFO - HTTP Request: POST https://api.telegram.org/bot8533837337:AAEUuNwVb5AFHib3km1DHX_DMZyF7jNU5Qw/getUpdates "HTTP/1.1 200 OK"
+2025-12-18 03:23:59,936 - INFO - HTTP Request: POST https://api.telegram.org/bot8533837337:AAEUuNwVb5AFHib3km1DHX_DMZyF7jNU5Qw/getUpdates "HTTP/1.1 200 OK"
+2025-12-18 03:24:10,126 - INFO - HTTP Request: POST https://api.telegram.org/bot8533837337:AAEUuNwVb5AFHib3km1DHX_DMZyF7jNU5Qw/getUpdates "HTTP/1.1 200 OK"
+2025-12-18 03:24:20,313 - INFO - HTTP Request: POST https://api.telegram.org/bot8533837337:AAEUuNwVb5AFHib3km1DHX_DMZyF7jNU5Qw/getUpdates "HTTP/1.1 200 OK"
+2025-12-18 03:24:30,502 - INFO - HTTP Request: POST https://api.telegram.org/bot8533837337:AAEUuNwVb5AFHib3km1DHX_DMZyF7jNU5Qw/getUpdates "HTTP/1.1 200 OK"
+2025-12-18 03:24:40,689 - INFO - HTTP Request: POST https://api.telegram.org/bot8533837337:AAEUuNwVb5AFHib3km1DHX_DMZyF7jNU5Qw/getUpdates "HTTP/1.1 200 OK"
+2025-12-18 03:24:50,893 - INFO - HTTP Request: POST https://api.telegram.org/bot8533837337:AAEUuNwVb5AFHib3km1DHX_DMZyF7jNU5Qw/getUpdates "HTTP/1.1 200 OK"
+2025-12-18 03:25:01,081 - INFO - HTTP Request: POST https://api.telegram.org/bot8533837337:AAEUuNwVb5AFHib3km1DHX_DMZyF7jNU5Qw/getUpdates "HTTP/1.1 200 OK"
+2025-12-18 03:25:11,269 - INFO - HTTP Request: POST https://api.telegram.org/bot8533837337:AAEUuNwVb5AFHib3km1DHX_DMZyF7jNU5Qw/getUpdates "HTTP/1.1 200 OK"
+2025-12-18 03:25:21,457 - INFO - HTTP Request: POST https://api.telegram.org/bot8533837337:AAEUuNwVb5AFHib3km1DHX_DMZyF7jNU5Qw/getUpdates "HTTP/1.1 200 OK"
+2025-12-18 03:25:31,645 - INFO - HTTP Request: POST https://api.telegram.org/bot8533837337:AAEUuNwVb5AFHib3km1DHX_DMZyF7jNU5Qw/getUpdates "HTTP/1.1 200 OK"
+2025-12-18 03:25:41,833 - INFO - HTTP Request: POST https://api.telegram.org/bot8533837337:AAEUuNwVb5AFHib3km1DHX_DMZyF7jNU5Qw/getUpdates "HTTP/1.1 200 OK"
+2025-12-18 03:25:52,020 - INFO - HTTP Request: POST https://api.telegram.org/bot8533837337:AAEUuNwVb5AFHib3km1DHX_DMZyF7jNU5Qw/getUpdates "HTTP/1.1 200 OK"
+2025-12-18 03:26:02,208 - INFO - HTTP Request: POST https://api.telegram.org/bot8533837337:AAEUuNwVb5AFHib3km1DHX_DMZyF7jNU5Qw/getUpdates "HTTP/1.1 200 OK"
+2025-12-18 03:26:12,396 - INFO - HTTP Request: POST https://api.telegram.org/bot8533837337:AAEUuNwVb5AFHib3km1DHX_DMZyF7jNU5Qw/getUpdates "HTTP/1.1 200 OK"
